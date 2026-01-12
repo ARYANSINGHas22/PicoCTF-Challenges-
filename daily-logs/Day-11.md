@@ -4,13 +4,13 @@
 - **Challenge:** Mod 26  
 
 ### ✅ Challenge Solved
-- **Name:** Obedient Cat  
+- **Name:** Mod26
 - **Category:** Cryptography  
 - **Difficulty:** Easy  
 
 ### 📜 Description
-- In this challenge, we are given a file named `flag`.
-- The task is to access and read the contents of the file using the command line.
+- In this challenge, we are given a file named `values.txt`.
+- Use the rot13 to find the string or flag .
 
 ### 🛠️ Commands Used
 - `rot13`
