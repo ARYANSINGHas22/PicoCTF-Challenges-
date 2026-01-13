@@ -1,4 +1,4 @@
-## 📅 Day 13 – PicoCTF
+## 📅 Day 12 – PicoCTF
 
 - **Date:** 13 January, 2026  
 - **Challenge:** Nice Netcat... 
