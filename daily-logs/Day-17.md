@@ -13,4 +13,11 @@
 -  The source code for this vault is here: VaultDoor1.java
 ### 🛠️ Commands Used
 - charAT() method in java
-  
+
+### Concept Learned
+- started understanding java code.
+- for (i=0; i<password.length;i++)
+- {
+- System.Out.print(password[i])
+- }
+- 
