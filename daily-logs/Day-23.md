@@ -1,6 +1,6 @@
 ## 📅 Day 23 – PicoCTF
 
-- **Date:** 25 January, 2026  
+- **Date:** 24 January, 2026  
 - **Challenge:** rotation
 
 ### ✅ Challenge Solved
