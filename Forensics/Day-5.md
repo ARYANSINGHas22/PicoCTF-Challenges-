@@ -1,4 +1,4 @@
-## 📅 Day 4 – PicoCTF
+## 📅 Day 5 – PicoCTF
 
 - **Date:** 3 February, 2026  
 - **Challenge:** information
